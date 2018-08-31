@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# My name is Nguyen Phu Quy
+## I am a self taught developer
